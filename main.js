@@ -158,7 +158,7 @@ function drawScore(){
 }
 
 
-//Función muy importante para este juego
+//La función es muy importante para este juego
 function move(){
    fill(50,350,0);
    stroke(255,0,0);
